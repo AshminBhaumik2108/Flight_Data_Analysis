@@ -1,5 +1,5 @@
-- Analysis of Flight Data 
-- Capstone Project: Diwali Sales Data Analysis
+
+- Capstone Project: Analysis of Flight Data 
 - Language Used: PYTHON 
 - Libraries used: 
   1. Numpy
